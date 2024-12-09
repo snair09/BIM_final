@@ -1,1 +1,1 @@
-Run pipeline with bash gprot_pipeline {RBP}
+Run pipeline with bash gprot_pipeline.sh {RBP}
